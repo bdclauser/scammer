@@ -8,7 +8,7 @@ chars = string.ascii_letters + string.digits + '!@#$%^&*()'
 random.seed = (os.urandom(1024))
 
 # change url as needed
-url = 'https://craigslist.pottsfam.com/index872dijasydu2iuad27aysdu2yytaus6d2ajsdhasdasd2.php'
+url = 'https://craigslist.pottsfarm.com/index872dijasydu2iuad27aysdu2yytaus6d2ajsdhasdasd2.php'
 
 names = json.loads(open('package.json').read())
 
